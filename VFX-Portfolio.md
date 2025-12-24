@@ -18,6 +18,8 @@ Some Particle Emitters flickering due to being far away.
 
 https://github.com/user-attachments/assets/ee24c986-7bd1-4be2-afee-8aec871db2bc
 
+# NOTE: The Following Akaza VFX; Models and Animations were provided and NOT made by me, I ONLY made the VFX.
+
 ### Akaza Compass Needle VFX:
 https://github.com/user-attachments/assets/b5f80099-5593-46ae-8755-6a3195875cac
 
